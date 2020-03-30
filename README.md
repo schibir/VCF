@@ -1,6 +1,10 @@
 # Cyge
 This program can solve VCF (Victory by Continuous Fours) in Gomoku by standard rules
 
+<p>
+  <img src="https://github.com/schibir/VCF/blob/master/Cyge.png" alt="Screenshot"/>
+</p>
+
 ### Hot keys:
 
 * `Ctrl + N` -- Clear board
