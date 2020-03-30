@@ -1,0 +1,8 @@
+win.cpp->Window::Create():48: HWND: 0000000000BA0BA2, last error: 0
+Open position C:\work\progs\git-repo\VCF\from-vk.cyge
+Open position C:\work\progs\git-repo\VCF\from-vk1.cyge
+Open position C:\work\progs\git-repo\VCF\from-vk2.cyge
+Open position C:\work\progs\git-repo\VCF\from-vk3.cyge
+Open position C:\work\progs\git-repo\VCF\from-vk4.cyge
+Open position C:\work\progs\git-repo\VCF\longforce.cyge
+Open position C:\work\progs\git-repo\VCF\vk_new_mod.cyge
