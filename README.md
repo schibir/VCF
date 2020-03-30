@@ -1,5 +1,5 @@
 # Cyge
-VCF solver
+This program can solve VCF (Victory by Continuous Fours) in Gomoku by standard rules
 
 ### Hot keys:
 
