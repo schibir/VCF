@@ -16,5 +16,5 @@ This program can solve VCF (Victory by Continuous Fours) in Gomoku by standard r
 * `Arrows` -- Move position
 * `Ctrl + S` -- Save position
 * `Ctrl + O` -- Open position
-* `Ctrl + V` -- Past position string from clipboard (like h8g7g9i7f9h9)
+* `Ctrl + V` -- Paste position string from clipboard (like h8g7g9i7f9h9)
 * `Ctrl + C` -- Copy position string to clipboard
